@@ -1,0 +1,28 @@
+Numarul de teste este: 3
+How many random numbers?: 3000
+How many random numbers?: 10000
+How many random numbers?: 2000
+
+---------------------------------------------------------------------------------------
+
+
+BubbleSort a sortat cu succes testul cu  3000  timpul necesar fiind  0:00:01.731935
+CountSort a sortat cu  3000  timpul necesar fiind  0:00:00.001999
+MergeSort a sortat cu  3000  timpul necesar fiind  0:00:00.027983
+QuickSort a sortat cu  3000  timpul necesar fiind  0:00:00.017988
+RadixSort a sortat cu cu  3000  timpul necesar fiind  0:00:00.044972
+Sortarea nativa a sortat cu cu  3000  timpul necesar fiind  0:00:00.000999
+
+BubbleSort a sortat cu succes testul cu  10000  timpul necesar fiind  0:00:19.437039
+CountSort a sortat cu  10000  timpul necesar fiind  0:00:00.003998
+MergeSort a sortat cu  10000  timpul necesar fiind  0:00:00.102937
+QuickSort a sortat cu  10000  timpul necesar fiind  0:00:00.040975
+RadixSort a sortat cu cu  10000  timpul necesar fiind  0:00:00.138914
+Sortarea nativa a sortat cu cu  10000  timpul necesar fiind  0:00:00.000999
+
+BubbleSort a sortat cu succes testul cu  2000  timpul necesar fiind  0:00:00.746540
+CountSort a sortat cu  2000  timpul necesar fiind  0:00:00.001000
+MergeSort a sortat cu  2000  timpul necesar fiind  0:00:00.016989
+QuickSort a sortat cu  2000  timpul necesar fiind  0:00:00.012992
+RadixSort a sortat cu cu  2000  timpul necesar fiind  0:00:00.028982
+Sortarea nativa a sortat cu cu  2000  timpul necesar fiind  0:00:00.000999
